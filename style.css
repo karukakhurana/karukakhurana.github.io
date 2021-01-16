@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #F3D6C7;
+
+}
+.logo {
+    width: 120px;
+    height: 120px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
