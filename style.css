@@ -1,5 +1,4 @@
 
-
 *{
     margin: 0;
     padding: 0;
@@ -31,4 +30,13 @@
 }
 .messages p:last-child {
     margin-top: 1.5rem;
+}
+.card {
+    width: 18rem;
+    height: 18rem;
+}
+.blood {
+    width: 10rem;
+    height: 10rem;
+    
 }
