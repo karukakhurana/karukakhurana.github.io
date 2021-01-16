@@ -46,3 +46,16 @@
     font-size: 18px;
     line-height: 12px;
 }
+.questions{
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 12px;
+
+    text-align:center; 
+
+    color: #161A1D;
+
+}
