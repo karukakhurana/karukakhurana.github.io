@@ -1,0 +1,39 @@
+.bg {
+    background: radial-gradient(50% 50% at 50% 50%, #F3D6C7 0%, #EFE5DC 100%);
+}
+
+.box {
+    background: radial-gradient(50% 50% at 50% 50%, #E5383B 0%, rgba(164, 22, 26, 0.7) 100%);
+    box-shadow: 0px 5px 50px 0px #D72227;
+    border-radius: 20px;
+    width: 862px;
+    height: 92px;
+    margin: auto;
+    text-align:center; 
+    display:table;
+}
+
+.ems {
+    padding: 2rem 0;
+}
+
+.ems h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    color: white;
+    display:table-cell; vertical-align:middle
+}
+
+.video-container .col:first-child {
+    text-align: center;
+}
+
+.video-container {
+    padding: 5rem 0;
+}
+
+
