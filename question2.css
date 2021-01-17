@@ -69,3 +69,13 @@
     margin-left: 67.5rem;
     margin-top: -24rem;
 }
+.bck-fwd-btn {
+    padding: 5rem ;
+}
+a:link{
+    font-family: "Inter";
+    text-decoration: none;
+    color: black; 
+    font-weight:normal; 
+    text-align: center;
+}
