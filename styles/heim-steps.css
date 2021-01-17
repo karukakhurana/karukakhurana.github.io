@@ -10,14 +10,13 @@
     height: 92px;
     margin: auto;
     text-align:center; 
-    display:table;
 }
 
 .ems {
     padding: 2rem 0;
 }
 
-.ems h1 {
+.ems button {
     font-family: "Inter", sans-serif;
     font-size: 36px;
     font-style: normal;
@@ -25,7 +24,9 @@
     line-height: 44px;
     letter-spacing: 0.02em;
     color: white;
-    display:table-cell; vertical-align:middle
+    background: transparent;
+    border: none;
+    margin-top: 1.5rem;
 }
 
 .video-container .col:first-child {
