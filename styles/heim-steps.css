@@ -36,4 +36,15 @@
     padding: 5rem 0;
 }
 
+ol {
+    padding-top: 1rem;
+}
 
+li {
+    font-size: 20px;
+    padding: .5rem 0;
+}
+
+.instructions p {
+    font-size: 20px;
+}
