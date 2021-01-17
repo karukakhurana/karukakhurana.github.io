@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Voice</title>
+
+    </head>
+    <body>
+
+        <Script type="text/javascript" src="https://code.responsivevoice.org/responsivevoice.js"></Script>
+
+        <hi>Text to Speech Coverter</hi>
+        <textarea id="txt" rows="10" cols="10" name="text"></textarea>
+        <input type="button" onclick="textSpeak()" value="submit">
+
+        <script>
+            function textSpeak(){
+                var text = document.getElementById("txt").value;
+                responsiveVoice.speak(text);
+            }
+        </script>
+    </body>
+
+
+
+</html>
